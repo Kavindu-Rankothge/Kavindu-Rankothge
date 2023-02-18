@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavindu-Rankothge
 - 👀 I’m interested in Software Development, Data Science and anything to do with programming
-- 🌱 I’m currently learning at the University of Macquarie
+- 🌱 Graduate at University of Macquarie
 - 💞️ I’m looking to collaborate on any interesting projects 
 - 📫 Email: kavindur@gmail.com
 
